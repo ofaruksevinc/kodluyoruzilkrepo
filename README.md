@@ -5,11 +5,11 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.  İçerisinde bir adet REA
 
 # Installation
 Öncelikle projeyi clonelayın.
-'''git clone https://github.com/ofaruksevinc/kodluyoruzilkrepo.git
- '''
+'git clone https://github.com/ofaruksevinc/kodluyoruzilkrepo.git
+ '
 # Usage
- ''' cd kodluyoruzilkrepo
-code . '''
+ ' cd kodluyoruzilkrepo
+code . '
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
